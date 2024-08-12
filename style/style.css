@@ -1,0 +1,42 @@
+.custom_nav_bar {
+    padding: 1rem 0;
+}
+.costum_main {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+.navbar-toggler .custom {
+    display: flex;
+}
+.custom_color {
+    background-color: rgba(225, 225, 187, 0.74);
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+.custom_brand {
+    width: 50%;
+    margin: 0 3%;
+    font-weight:lighter;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+.custom_items {
+    display: flex;
+    justify-content: flex-end;
+}
+.custom_items li a {
+
+    font-size: 20px;
+    font-weight:lighter;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0 6%;   
+    display: flex; 
+    justify-content: center;
+}
+.custom_items :hover {
+    background-color: rgba(173, 173, 135, 0.74);
+}
+
